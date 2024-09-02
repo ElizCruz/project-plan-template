@@ -1,23 +1,23 @@
-# Modelo de Plano de Projeto
+# Modelo de plano de projeto
 
 Este repositório contém um modelo completo de plano de projeto em formato Markdown. 
 Use este template para padronizar a documentação dos seus projetos, garantindo que todos os detalhes importantes sejam capturados de forma clara e organizada.
 
 ## Índice
 
-- [Modelo de Plano de Projeto](#modelo-de-plano-de-projeto)
+- [Modelo de plano de projeto](#modelo-de-plano-de-projeto)
   - [Índice](#índice)
   - [Introdução](#introdução)
-  - [Objetivos do Projeto](#objetivos-do-projeto)
-  - [Escopo do Projeto](#escopo-do-projeto)
-    - [Escopo Incluído](#escopo-incluído)
-    - [Escopo Excluído](#escopo-excluído)
+  - [Objetivos do projeto](#objetivos-do-projeto)
+  - [Escopo do projeto](#escopo-do-projeto)
+    - [Escopo incluído](#escopo-incluído)
+    - [Escopo excluído](#escopo-excluído)
   - [Cronograma](#cronograma)
   - [Orçamento](#orçamento)
-  - [Riscos e Mitigações](#riscos-e-mitigações)
-  - [Plano de Comunicação](#plano-de-comunicação)
-  - [Gestão de Recursos](#gestão-de-recursos)
-  - [Aprovações e Assinaturas](#aprovações-e-assinaturas)
+  - [Riscos e mitigações](#riscos-e-mitigações)
+  - [Plano de comunicação](#plano-de-comunicação)
+  - [Gestão de recursos](#gestão-de-recursos)
+  - [Aprovações e assinaturas](#aprovações-e-assinaturas)
   - [Como usar este modelo](#como-usar-este-modelo)
   - [Contribuições](#contribuições)
 
@@ -27,20 +27,20 @@ Use este template para padronizar a documentação dos seus projetos, garantindo
 
 Forneça uma breve introdução ao projeto. Inclua uma visão geral do projeto, seu contexto e a motivação para sua realização.
 
-## Objetivos do Projeto
+## Objetivos do projeto
 
 - Definir claramente os objetivos do projeto.
 - Exemplo: "O objetivo deste projeto é desenvolver um aplicativo móvel para cuidados pessoais de pets, oferecendo funcionalidades de agendamento de cuidados, lembretes de vacinação e monitoramento de saúde."
 
-## Escopo do Projeto
+## Escopo do projeto
 
-### Escopo Incluído
+### Escopo incluído
 - **Funcionalidades principais**: Liste as funcionalidades principais que serão entregues.
   - Exemplo: Aplicativo para agendamento de cuidados, notificações automáticas de vacinas, etc.
 - **Requisitos técnicos**: Detalhe os requisitos técnicos necessários.
   - Exemplo: Suporte para iOS e Android, integração com APIs de serviços veterinários.
 
-### Escopo Excluído
+### Escopo excluído
 - Detalhe o que está fora do escopo do projeto.
   - Exemplo: "Integração com wearables para monitoramento de saúde não será incluída na versão inicial."
 
@@ -65,7 +65,7 @@ Inclua um cronograma detalhado do projeto com as datas de início e término de 
 
 Descreva o orçamento do projeto, incluindo estimativas e custos reais.
 
-## Riscos e Mitigações
+## Riscos e mitigações
 
 | Risco                         | Probabilidade | Impacto | Mitigação                        |
 | ----------------------------- | ------------- | ------- | -------------------------------- |
@@ -75,7 +75,7 @@ Descreva o orçamento do projeto, incluindo estimativas e custos reais.
 
 Identifique os principais riscos do projeto e estratégias para mitigá-los.
 
-## Plano de Comunicação
+## Plano de comunicação
 
 - **Reuniões de status**: Reuniões semanais com a equipe de projeto.
 - **Relatórios de progresso**: Relatórios quinzenais enviados aos stakeholders.
@@ -83,12 +83,12 @@ Identifique os principais riscos do projeto e estratégias para mitigá-los.
 
 Descreva como a comunicação será conduzida ao longo do projeto, incluindo a frequência das reuniões e os canais utilizados.
 
-## Gestão de Recursos
+## Gestão de recursos
 
 - **Equipe**: Lista dos membros da equipe e suas responsabilidades.
 - **Recursos Externos**: Detalhes de qualquer suporte externo necessário (consultores, fornecedores, etc.).
 
-## Aprovações e Assinaturas
+## Aprovações e assinaturas
 
 | Nome                     | Cargo          | Data         | Assinatura            |
 | ------------------------ | -------------- | ------------ | --------------------- |
